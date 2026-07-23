@@ -2,8 +2,8 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>svc1_2026w30</Id>
-    <DateBegin>2026-07-22</DateBegin>
-    <DateEnd>2026-08-21</DateEnd>
+    <DateBegin>2026-07-23</DateBegin>
+    <DateEnd>2026-08-22</DateEnd>
     <Fee>Free</Fee>
     <AllowEmail>Yes</AllowEmail>
     <Category>Предложение услуг</Category>
@@ -33,8 +33,8 @@
   </Ad>
   <Ad>
     <Id>svc2_2026w30</Id>
-    <DateBegin>2026-07-22</DateBegin>
-    <DateEnd>2026-08-21</DateEnd>
+    <DateBegin>2026-07-23</DateBegin>
+    <DateEnd>2026-08-22</DateEnd>
     <Fee>Free</Fee>
     <AllowEmail>Yes</AllowEmail>
     <Category>Предложение услуг</Category>
@@ -63,8 +63,8 @@
   </Ad>
   <Ad>
     <Id>svc3_2026w30</Id>
-    <DateBegin>2026-07-22</DateBegin>
-    <DateEnd>2026-08-21</DateEnd>
+    <DateBegin>2026-07-23</DateBegin>
+    <DateEnd>2026-08-22</DateEnd>
     <Fee>Free</Fee>
     <AllowEmail>Yes</AllowEmail>
     <Category>Предложение услуг</Category>
@@ -94,8 +94,8 @@ Claude пишет рабочий код с первого раза, понима
   </Ad>
   <Ad>
     <Id>svc4_2026w30</Id>
-    <DateBegin>2026-07-22</DateBegin>
-    <DateEnd>2026-08-21</DateEnd>
+    <DateBegin>2026-07-23</DateBegin>
+    <DateEnd>2026-08-22</DateEnd>
     <Fee>Free</Fee>
     <AllowEmail>Yes</AllowEmail>
     <Category>Предложение услуг</Category>
@@ -125,8 +125,8 @@ Claude пишет рабочий код с первого раза, понима
   </Ad>
   <Ad>
     <Id>svc5_2026w30</Id>
-    <DateBegin>2026-07-22</DateBegin>
-    <DateEnd>2026-08-21</DateEnd>
+    <DateBegin>2026-07-23</DateBegin>
+    <DateEnd>2026-08-22</DateEnd>
     <Fee>Free</Fee>
     <AllowEmail>Yes</AllowEmail>
     <Category>Предложение услуг</Category>
@@ -156,8 +156,8 @@ Claude не просто считает цифры — он объясняет �
   </Ad>
   <Ad>
     <Id>svc6_2026w30</Id>
-    <DateBegin>2026-07-22</DateBegin>
-    <DateEnd>2026-08-21</DateEnd>
+    <DateBegin>2026-07-23</DateBegin>
+    <DateEnd>2026-08-22</DateEnd>
     <Fee>Free</Fee>
     <AllowEmail>Yes</AllowEmail>
     <Category>Предложение услуг</Category>
